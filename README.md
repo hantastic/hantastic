@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hannah King](https://www.hannahking.com/images/github/github-intro.gif)
 
 <!--
 **hantastic/hantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
